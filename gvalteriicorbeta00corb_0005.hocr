@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gvalteriicorbeta00corb_0005.png"; bbox 0 0 2091 3105; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 126 363 1779 520">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 126 363 1779 520">
+     <span class='ocr_line' id='line_1_1' title="bbox 126 363 1779 520; baseline 0.001 -25"><span class='ocrx_word' id='word_1_1' title='bbox 126 363 1247 520; x_wconf 82' lang='lat' dir='ltr'>GVALTERII</span> <span class='ocrx_word' id='word_1_2' title='bbox 1310 371 1779 512; x_wconf 61' lang='lat' dir='ltr'>CORx</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 177 540 1693 995">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 177 540 1693 995">
+     <span class='ocr_line' id='line_1_2' title="bbox 177 540 1693 640; baseline 0.004 -31"><span class='ocrx_word' id='word_1_3' title='bbox 177 540 1305 640; x_wconf 68' lang='lat' dir='ltr'><strong>BETAEIVRECONSVLT.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1362 552 1485 616; x_wconf 81' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1560 552 1693 617; x_wconf 52' lang='grc' dir='ltr'>ΞΕ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 249 671 1614 754; baseline -0.001 -16"><span class='ocrx_word' id='word_1_6' title='bbox 249 671 720 739; x_wconf 67' lang='lat' dir='ltr'>NATORIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 760 674 1333 754; x_wconf 74' lang='lat' dir='ltr'>MEDIOLAN.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1373 675 1614 741; x_wconf 53' lang='grc' dir='ltr'>ΘΚΑ)</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 796 1549 868; baseline 0.002 -5"><span class='ocrx_word' id='word_1_9' title='bbox 332 798 1101 866; x_wconf 76' lang='lat' dir='ltr'>TIO.HA31TA1N</span> <span class='ocrx_word' id='word_1_10' title='bbox 1142 796 1549 868; x_wconf 66' lang='lat' dir='ltr'>FVNERE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 343 927 1554 995; baseline 0.004 -5"><span class='ocrx_word' id='word_1_11' title='bbox 343 927 1554 995; x_wconf 73' lang='lat' dir='ltr'>DIVIFRANCISC1.11.SFOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 466 1054 1424 1249">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 466 1054 1424 1249">
+     <span class='ocr_line' id='line_1_6' title="bbox 466 1054 1424 1140; baseline 0.002 -20"><span class='ocrx_word' id='word_1_12' title='bbox 466 1054 691 1140; x_wconf 73' lang='lat' dir='ltr'>TJAE</span> <span class='ocrx_word' id='word_1_13' title='bbox 731 1055 1424 1121; x_wconf 78' lang='lat' dir='ltr'><strong>VICECOMITIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 546 1180 1352 1249; baseline 0.005 -7"><span class='ocrx_word' id='word_1_14' title='bbox 546 1180 1352 1249; x_wconf 73' lang='lat' dir='ltr'><strong>MEDIOL.DVCIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
